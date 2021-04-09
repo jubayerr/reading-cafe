@@ -1,0 +1,36 @@
+.books {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.books h2 {
+    color: black;
+}
+
+.books h4 {
+    padding: 20px;
+}
+
+.books img {
+    border-radius: 10px;
+    height: 300px;
+}
+
+.books button {
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    background-color: #00e498;
+}
+
+.books-footer {
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+
+.books button:hover {
+    background-color: #00d890;
+}

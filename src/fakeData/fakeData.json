@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "name": "Eloquent JavaScript",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/5138YhQZILL._SX376_BO1,204,203,200_.jpg",
+        "price": 306
+    },
+    {
+        "id": 1,
+        "name": "JavaScript: The Good Parts",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg",
+        "price": 242
+    },
+    {
+        "id": 2,
+        "name": "JavaScript and JQuery",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/31SRWF+LkKL._SX398_BO1,204,203,200_.jpg",
+        "price": 181
+    },
+    {
+        "id": 3,
+        "name": "You Don't Know JS",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41kn-mEpe6L._SX331_BO1,204,203,200_.jpg",
+        "price": 393
+    },
+    {
+        "id": 4,
+        "name": "JavaScript - The Definitive Guide",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51wijnc-Y8L._SX379_BO1,204,203,200_.jpg",
+        "price": 363
+    },
+    {
+        "id": 5,
+        "name": "JavaScript Everywhere",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51sLoT+bdsL._SX379_BO1,204,203,200_.jpg",
+        "price": 298
+    },
+    {
+        "id": 6,
+        "name": "Head First JavaScript Programming",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51qQTSKL2nL._SX430_BO1,204,203,200_.jpg",
+        "price": 141
+    },
+    {
+        "id": 7,
+        "name": "Learn JavaScript Quickly",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41SVTBTm1oL._SX384_BO1,204,203,200_.jpg",
+        "price": 368
+    },
+    {
+        "id": 8,
+        "name": "JavaScript in easy steps",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51IfxCbUvZL._SX408_BO1,204,203,200_.jpg",
+        "price": 377
+    },
+    {
+        "id": 9,
+        "name": "JavaScript for impatient programmers",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41jk+Ueey9L._SX348_BO1,204,203,200_.jpg",
+        "price": 284
+    },
+    {
+        "id": 10,
+        "name": "Coding with JavaScript FD",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51tZp17B-dL._SX397_BO1,204,203,200_.jpg",
+        "price": 231
+    },
+    {
+        "id": 11,
+        "name": "Serverless Handbook",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41xnJ1wkfDL._SX331_BO1,204,203,200_.jpg",
+        "price": 149
+    },
+    {
+        "id": 12,
+        "name": "Learning React",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51FHuacxYjL._SX379_BO1,204,203,200_.jpg",
+        "price": 180
+    },
+    {
+        "id": 13,
+        "name": "React Explained",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/4181vLK8kpL._SX331_BO1,204,203,200_.jpg",
+        "price": 331
+    },
+    {
+        "id": 14,
+        "name": "Modern Full-Stack Development",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41q4NK-yIAL._SX348_BO1,204,203,200_.jpg",
+        "price": 227
+    },
+    {
+        "id": 15,
+        "name": "Programming TypeScript",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51csAp-ykgL._SX379_BO1,204,203,200_.jpg",
+        "price": 224
+    },
+    {
+        "id": 16,
+        "name": "Effective TypeScript",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41jnU0V+cBL._SX379_BO1,204,203,200_.jpg",
+        "price": 335
+    },
+    {
+        "id": 17,
+        "name": "Web Development with Node and Express",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51-+CBaVaGL._SX379_BO1,204,203,200_.jpg",
+        "price": 319
+    }
+]

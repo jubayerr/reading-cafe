@@ -1,0 +1,22 @@
+.checkout {
+    padding: 50px 0;
+}
+.checkout table {
+    margin: 50px auto;
+}
+.checkout td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px 20px;
+}
+
+.checkout button {
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    background-color: #00e498;
+}
+
+.checkout button:hover {
+    background-color: #00d890;
+}

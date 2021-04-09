@@ -1,0 +1,24 @@
+.admin h2 {
+    padding: 50px 0;
+}
+.admin form {
+    width: 70%;
+    background: #f7f7f7;
+    padding: 50px;
+    margin: auto;
+}
+.admin form input {
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    background-color:rgba(91, 131, 117, 0.5);
+}
+.admin .submit-btn {
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    background-color: #00e498;
+}
+.admin .submit-btn:hover {
+    background-color: #00d890;
+}
